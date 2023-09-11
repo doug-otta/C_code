@@ -1,5 +1,5 @@
 # C_code
-Just training the base of languages xD
+Just training C xD
 
 Here are some projects developed by Dartmouth and IMT, the name of course is C Programming: Language Foundations and C Programming: Getting Started. The course has
 units as you can see below:
@@ -14,7 +14,6 @@ units as you can see below:
 * Defining key terms, Completed
 * Exploring more features of Codecast, Completed
 * Interacting on the discussion forum, Completed
-* Learning checklist
 
 ### Unit 1.1: Printing, loops, and comments
 * Introducing Unit 1.1, Completed
@@ -37,8 +36,7 @@ units as you can see below:
 * Repeating instructions with variables, Completed
 * Reading user input, Completed
 * Reading user input inside a loop, Completed
-* Learning checklist
-
+  
 ### Unit 1.3: Characters and doubles, Completed section
 
 * Introducing Unit 1.3, Completed
@@ -52,12 +50,6 @@ units as you can see below:
 * Practicing division, Completed
 * Learning checklist
 
-### Unit 1.4: Final Project for Verified Certificate Learners, Incomplete section
-
-* Final project assessment, Incomplete
-Final Project due 13 de mai. de 2023, 14:10 BRT
-* Record Scores to edX Progress, Incomplete
-Activity due 13 de mai. de 2023, 14:10 BRT
 
 ### Unit 2.0: Welcome, Completed section
 
@@ -94,9 +86,42 @@ Activity due 13 de mai. de 2023, 14:10 BRT
 * Sorting strings, Incomplete
 * Searching with bisection and sorting with bubble sort
 
-### Unit 2.4: Final Project for Verified Certificate Learners, Incomplete section
 
-* Final project assessment, Incomplete
-Final project due 28 de mai. de 2023, 10:21 BRT
-* Record Scores to edX Progress, Incomplete
-Activity due 28 de mai. de 2023, 10:21 BRT
+### Unit 3.0: Functions and recursion
+
+* Introducing Unit 3.0
+* Defining functions and passing values to functions
+* Working with functions
+* Using recursion
+
+### Unit 3.1: Memory and the scope of variables
+
+* Understanding computer memory
+* Determining the amount of memory used for different data types
+* Determining the scope of variables
+
+### Unit 3.3: Pointers
+
+* Defining pointers and dereferencing pointers
+* Using pointers with functions
+* Performing simple pointer arithmetic
+* Passing arrays to functions
+
+
+### Unit 4.0: Memory and pointers
+
+* Defining and dereferencing pointers
+* Using pointers with functions
+* Working with pointer arithmetic
+* Passing arrays to functions
+
+### Unit 4.2: Multidimensional arrays
+
+* Working with arrays and pointers
+* Storing and manipulating strings in arrays
+
+### Unit 4.3: Dynamic memory allocation
+
+* Allocating memory at runtime
+* Freeing dynamically allocated memory
+* Storing and addressing arrays in dynamically allocated memory
